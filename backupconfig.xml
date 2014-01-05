@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+	<device>
+		<IP>172.16.10.56</IP>
+		<NAME>PTML_2.RACK_SW2</NAME>
+		<TYPE>SWITCH</TYPE>
+		<MODEL>3COM</MODEL>
+		<USER>Admin</USER>
+		<PASS></PASS>
+		<DESTDIR>C:\Users\patrick.squire.OFFICE\Desktop\NetDevice Backup\Backups</DESTDIR>
+	</device>
+</configuration>
